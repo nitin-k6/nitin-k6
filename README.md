@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 Projects:
 
-## 1. Portfolio Website | https://nextjsportfolio2.vercel.app
+# 1. Portfolio Website | https://nextjsportfolio2.vercel.app
 Developed a responsive portfolio website with Next.js, Node.js, Tailwind CSS, and Framer Motion, showcasing
 dynamic animations and all my projects. Implemented EmailJS for seamless contact form functionality, ensuring responsive user communication
 
