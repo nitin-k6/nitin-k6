@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitin-k6
 - 👀 I'm full stack developer
-- 🌱 i am currently learing data engineering.
-- 📫 you can reach me on twitter (@nitin_x6) and linkedin (@nitin-k666)
+- 🌱 I am currently learing docker and c#.
+- 📫 You can reach me on email - "67nitinkumar@gmail.com" & linkedin (@nitin-k666)
 
 
 ## 🌐 Socials:
