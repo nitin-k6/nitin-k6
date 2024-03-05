@@ -3,6 +3,19 @@
 - 🌱 I am currently learing docker and c#.
 - 📫 You can reach me on email - 67nitinkumar@gmail.com
 
+## 👨🏻‍💻 Projects:
+
+1. Portfolio Website | https://nextjsportfolio2.vercel.app
+Developed a responsive portfolio website with Next.js, Node.js, Tailwind CSS, and Framer Motion, showcasing
+dynamic animations and all my projects. Implemented EmailJS for seamless contact form functionality, ensuring responsive user communication
+
+
+2. Full Stack Blog App | https://reactblog3f.onrender.com/
+Led end-to-end development, creating a robust, user-friendly blog app for seamless sharing of ideas.Integrated Node.js with Express.js for seamless communication with MongoDB database on the backend. Noteworthy features encompass rock-solid user authentication, advanced search filters functionality, and streamlined post management for an optimal user experience.
+
+3. Article Summarizer | https://articlesumarizer.netlify.app
+ Created a web app with React.js, Vite, Vanilla CSS, and Redux Toolkit, integrating OpenAI AI Summarizer API. It allows users to generate clear and concise summaries of lengthy articles
+   
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/nitinkumar529) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pBdA2JVG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitin.x6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-k666) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@67nitinkumar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/67nitinkumar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Nitin-Kumar-7943) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/nitin_x6) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23537032) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nitin_x6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nitin_x6) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rssoocnt-the-selector) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@nitin_x6) 
