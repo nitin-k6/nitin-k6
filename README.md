@@ -14,6 +14,9 @@ Led end-to-end development, creating a robust, user-friendly blog app for seamle
 
 3. Article Summarizer | https://articlesumarizer.netlify.app
  Created a web app with React.js, Vite, Vanilla CSS, and Redux Toolkit, integrating OpenAI AI Summarizer API. It allows users to generate clear and concise summaries of lengthy articles
+
+4. React Movie Landing Site
+The Website serves as a one-stop destination for movie enthusiasts to discover movies. Implemented responsive design for seamless access across desktop and mobile devices. Leveraged the OMDb API to efficiently fetch movie data, enriching user experience.
    
 
 ## 🌐 Socials:
