@@ -5,10 +5,9 @@
 
 ## 👨🏻‍💻 Projects:
 
-# 1. Portfolio Website | https://nextjsportfolio2.vercel.app
+1. Portfolio Website | https://nextjsportfolio2.vercel.app
 Developed a responsive portfolio website with Next.js, Node.js, Tailwind CSS, and Framer Motion, showcasing
 dynamic animations and all my projects. Implemented EmailJS for seamless contact form functionality, ensuring responsive user communication
-
 
 2. Full Stack Blog App | https://reactblog3f.onrender.com/
 Led end-to-end development, creating a robust, user-friendly blog app for seamless sharing of ideas.Integrated Node.js with Express.js for seamless communication with MongoDB database on the backend. Noteworthy features encompass rock-solid user authentication, advanced search filters functionality, and streamlined post management for an optimal user experience.
