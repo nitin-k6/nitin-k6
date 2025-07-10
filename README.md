@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitin-k6
-- 👀 I'm full stack developer
+- 👀 I'm an engineer who loves building software
 - 📫 You can reach me on email - 67nitinkumar@gmail.com
 
 ## 👨🏻‍💻 Projects:
