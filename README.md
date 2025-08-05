@@ -12,7 +12,7 @@ dynamic animations and all my projects. Implemented EmailJS for seamless contact
 : Led end-to-end development, creating a robust, user-friendly blog app for seamless sharing of ideas.Integrated Node.js with Express.js for seamless communication with MongoDB database on the backend. Noteworthy features encompass rock-solid user authentication, advanced search filters functionality, and streamlined post management for an optimal user experience.
 
 3. Article Summarizer | https://articlesumarizer.netlify.app
- : Created a web app with React.js, Vite, Vanilla CSS, and Redux Toolkit, integrating OpenAI AI Summarizer API. It allows users to generate clear and concise summaries of lengthy articles
+ : Created a web app with React.js, Vite, Vanilla CSS, and Redux Toolkit, integrating OpenAI AI Summarizer. It allows users to generate clear and concise summaries of lengthy articles
 
 4. React Movie Landing Site | https://reactmoviesite.onrender.com
 : The Website serves as a one-stop destination for movie enthusiasts to discover movies. Implemented responsive design for seamless access across desktop and mobile devices. Leveraged the OMDb API to efficiently fetch movie data, enriching user experience.
