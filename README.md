@@ -4,17 +4,27 @@
 
 ## 👨🏻‍💻 Projects:
 
-1. Portfolio Website | https://nextjsportfolio2.vercel.app
+1. Rag-Study | https://rag-frontend-ebhv.onrender.com/
+: 
+
+2. Healthcare AI assistant | https://healthai-care.streamlit.app/
+: Developed an AI-powered Healthcare Assistant web application using CrewAI, Streamlit, and Google Gemini models. Architected a multi-agent system that analyzes user symptoms, researches medical literature, recommends treatments, and explains health concepts in simple terms. Integrated secure environment management and robust error handling for production reliability. Automated diagnosis workflow and enabled extensible agent/task design for future scalability. Demonstrated expertise in LLM orchestration, prompt engineering, and user-centric healthcare technology.
+
+3. Creator Wish - AI aggregator | https://creatorwish.vercel.app/
+: Creator Wish - AI Aggregrator | Next.js, Node.js, Express.js, MongoDB, Tailwind CSS September 2024
+ Built CreatorWish, an AI tool discovery platform with 100 curated tools across 10 specialized categories, featuring real-time crypto dashboard and dynamic news feed to enhance user market awareness and tool selection. Implemented user bookmark system, EmailJS contact forms, reCAPTCHA security, and scalable backend with MongoDB/ImageKit, deployed on Vercel.
+ 
+4. Portfolio Website | https://nextjsportfolio2.vercel.app
 : Developed a responsive portfolio website with Next.js, Node.js, Tailwind CSS, and Framer Motion, showcasing
 dynamic animations and all my projects. Implemented EmailJS for seamless contact form functionality, ensuring responsive user communication
 
-2. Full Stack Blog App | https://react-blogf.netlify.app/
+5. Full Stack Blog App | https://react-blogf.netlify.app/
 : Led end-to-end development, creating a robust, user-friendly blog app for seamless sharing of ideas.Integrated Node.js with Express.js for seamless communication with MongoDB database on the backend. Noteworthy features encompass rock-solid user authentication, advanced search filters functionality, and streamlined post management for an optimal user experience.
 
-3. Article Summarizer | https://articlesumarizer.netlify.app
+6. Article Summarizer | https://articlesumarizer.netlify.app
  : Created a web app with React.js, Vite, Vanilla CSS, and Redux Toolkit, integrating OpenAI AI Summarizer. It allows users to generate clear and concise summaries of lengthy articles
 
-4. React Movie Landing Site | https://reactmoviesite.onrender.com
+7. React Movie Landing Site | https://reactmoviesite.onrender.com
 : The Website serves as a one-stop destination for movie enthusiasts to discover movies. Implemented responsive design for seamless access across desktop and mobile devices. Leveraged the OMDb API to efficiently fetch movie data, enriching user experience.
    
 
