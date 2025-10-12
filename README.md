@@ -5,26 +5,59 @@
 ## 👨🏻‍💻 Projects:
 
 1. Rag-Study | https://rag-frontend-ebhv.onrender.com/
-: 
 
-2. Healthcare AI assistant | https://healthai-care.streamlit.app/
+
+    **Technologies:** React, Vite, Pinecone, Whoosh, Gemini API, text-embedding-004, PDF.js
+    
+    Architected and developed an intelligent, AI-powered study application leveraging Retrieval-Augmented Generation (RAG) to deliver personalized learning experiences. The application seamlessly integrates advanced NLP capabilities with intuitive user interfaces to   transform how users interact with educational content.
+    
+    **Core Features & Technical Implementation:**
+    
+    **Intelligent Document Processing & Search**
+    - Engineered a dual-vector search system utilizing Pinecone for semantic similarity search and Whoosh for BM25 full-text search, enabling fast and accurate information retrieval from uploaded PDFs
+    - Implemented text-embedding-004 (Gemini's state-of-the-art embedding model) to convert PDF content into high-dimensional vector representations for enhanced contextual understanding and semantic search accuracy
+    - Built intelligent query resolution using Gemini as the primary LLM to generate contextually relevant responses from retrieved document chunks
+    
+    **Interactive PDF Management & Source Attribution**
+    - Developed an integrated PDF viewer with seamless navigation capabilities
+    - Implemented source tracking functionality that displays the exact page number and location from which answers are retrieved, providing users with complete transparency and easy reference to source material
+    - Created an intuitive interface for users to review and interact with uploaded PDFs directly within the application
+    
+    **Adaptive Assessment & Learning Analytics**
+    - Built an automated quiz generation system that creates contextually relevant questions based on PDF content, enabling targeted assessment of user knowledge
+    - Designed a comprehensive analytics dashboard displaying user performance metrics, learning progress, and topic-wise strengths and weaknesses
+    - Implemented intelligent weak topic identification to pinpoint areas requiring additional focus and remediation
+    
+    **Personalized Learning Recommendations**
+    - Engineered YouTube video suggestion engine that recommends relevant educational videos for weak topics identified through quiz performance analysis
+    - Created an additional recommendation system suggesting supplementary YouTube videos for comprehensive coverage of entire PDF content
+    - Integrated manual video search functionality allowing users to independently discover additional learning resources on specific topics
+    
+    **Technical Stack & Deployment**
+    - Developed responsive, high-performance frontend using React and Vite for optimal build times and user experience
+    - Deployed on Render for reliable, scalable cloud hosting and continuous availability
+    - Implemented RESTful API architecture connecting frontend with AI/ML backend services
+    
+    This project demonstrates expertise in full-stack development, AI/ML integration, vector databases, information retrieval systems, and creating data-driven educational applications.
+
+3. Healthcare AI assistant | https://healthai-care.streamlit.app/
 : Developed an AI-powered Healthcare Assistant web application using CrewAI, Streamlit, and Google Gemini models. Architected a multi-agent system that analyzes user symptoms, researches medical literature, recommends treatments, and explains health concepts in simple terms. Integrated secure environment management and robust error handling for production reliability. Automated diagnosis workflow and enabled extensible agent/task design for future scalability. Demonstrated expertise in LLM orchestration, prompt engineering, and user-centric healthcare technology.
 
-3. Creator Wish - AI aggregator | https://creatorwish.vercel.app/
+4. Creator Wish - AI aggregator | https://creatorwish.vercel.app/
 : Creator Wish - AI Aggregrator | Next.js, Node.js, Express.js, MongoDB, Tailwind CSS September 2024
  Built CreatorWish, an AI tool discovery platform with 100 curated tools across 10 specialized categories, featuring real-time crypto dashboard and dynamic news feed to enhance user market awareness and tool selection. Implemented user bookmark system, EmailJS contact forms, reCAPTCHA security, and scalable backend with MongoDB/ImageKit, deployed on Vercel.
  
-4. Portfolio Website | https://nextjsportfolio2.vercel.app
+5. Portfolio Website | https://nextjsportfolio2.vercel.app
 : Developed a responsive portfolio website with Next.js, Node.js, Tailwind CSS, and Framer Motion, showcasing
 dynamic animations and all my projects. Implemented EmailJS for seamless contact form functionality, ensuring responsive user communication
 
-5. Full Stack Blog App | https://react-blogf.netlify.app/
+6. Full Stack Blog App | https://react-blogf.netlify.app/
 : Led end-to-end development, creating a robust, user-friendly blog app for seamless sharing of ideas.Integrated Node.js with Express.js for seamless communication with MongoDB database on the backend. Noteworthy features encompass rock-solid user authentication, advanced search filters functionality, and streamlined post management for an optimal user experience.
 
-6. Article Summarizer | https://articlesumarizer.netlify.app
+7. Article Summarizer | https://articlesumarizer.netlify.app
  : Created a web app with React.js, Vite, Vanilla CSS, and Redux Toolkit, integrating OpenAI AI Summarizer. It allows users to generate clear and concise summaries of lengthy articles
 
-7. React Movie Landing Site | https://reactmoviesite.onrender.com
+8. React Movie Landing Site | https://reactmoviesite.onrender.com
 : The Website serves as a one-stop destination for movie enthusiasts to discover movies. Implemented responsive design for seamless access across desktop and mobile devices. Leveraged the OMDb API to efficiently fetch movie data, enriching user experience.
    
 
