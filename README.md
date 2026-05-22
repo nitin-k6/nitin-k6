@@ -4,7 +4,10 @@
 
 ## 👨🏻‍💻 Projects:
 
-1. Rag-Study | https://rag-frontend-ebhv.onrender.com/
+1. Healthcare AI assistant | https://healthai-care.streamlit.app/
+: Developed an AI-powered Healthcare Assistant web application using CrewAI, Streamlit, and Google Gemini models. Architected a multi-agent system that analyzes user symptoms, researches medical literature, recommends treatments, and explains health concepts in simple terms. Integrated secure environment management and robust error handling for production reliability. Automated diagnosis workflow and enabled extensible agent/task design for future scalability. Demonstrated expertise in LLM orchestration, prompt engineering, and user-centric healthcare technology.
+
+2. Rag-Study | https://rag-frontend-ebhv.onrender.com/
 
 
     **Technologies:** React, Vite, Pinecone, Whoosh, Gemini API, text-embedding-004, PDF.js
@@ -40,8 +43,7 @@
     
     This project demonstrates expertise in full-stack development, AI/ML integration, vector databases, information retrieval systems, and creating data-driven educational applications.
 
-3. Healthcare AI assistant | https://healthai-care.streamlit.app/
-: Developed an AI-powered Healthcare Assistant web application using CrewAI, Streamlit, and Google Gemini models. Architected a multi-agent system that analyzes user symptoms, researches medical literature, recommends treatments, and explains health concepts in simple terms. Integrated secure environment management and robust error handling for production reliability. Automated diagnosis workflow and enabled extensible agent/task design for future scalability. Demonstrated expertise in LLM orchestration, prompt engineering, and user-centric healthcare technology.
+
 
 4. Creator Wish - AI aggregator | https://creatorwish.vercel.app/
 : Creator Wish - AI Aggregrator | Next.js, Node.js, Express.js, MongoDB, Tailwind CSS September 2024
